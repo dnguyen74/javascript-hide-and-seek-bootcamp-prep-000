@@ -15,5 +15,5 @@ function deepestChild() {
   
 }
 
-getFirstSelector('unranked-list')
+getFirstSelector('unranked-list');
 
